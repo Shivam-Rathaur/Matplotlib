@@ -34,7 +34,7 @@ pip install matplotlib
 ### Running the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shivam-Rathaur/matplotlib-tutorial.git
+   git clone https://github.com/Shivam-Rathaur/Matplotlib.git 
    ```
 2. Navigate to the directory:
    ```bash
@@ -53,6 +53,7 @@ This project is licensed under the MIT License.
 
 ## Connect with Me
 [LinkedIn - Shivam Rathaur](https://www.linkedin.com/in/shivam-rathaur/)
+
 [GitHub - Shivam Rathaur](https://github.com/Shivam-Rathaur)
 
 ---
