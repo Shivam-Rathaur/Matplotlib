@@ -4,11 +4,19 @@
 This repository contains a Jupyter Notebook that provides a comprehensive introduction to **Matplotlib**, a powerful Python library for data visualization. The notebook covers various essential features and techniques to create effective visualizations using `pyplot`.
 
 ## Topics Covered
-- Introduction to **Matplotlib** and `pyplot`
-- Creating **line plots**
-- Customizing markers and styles
-- Plotting without lines (scatter plots)
-- Adjusting plot aesthetics
+- Introduction
+- Getting Started
+- Pyplot
+- Plotting
+- Markers
+- Line
+- Labels
+- Grid
+- Subplot
+- Scatter
+- Bars
+- Histograms
+- Pie Charts
 
 ## Who Can Use This?
 This repository is useful for:
