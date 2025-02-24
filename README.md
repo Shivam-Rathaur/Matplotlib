@@ -33,20 +33,18 @@ Ensure you have Matplotlib installed in your Python environment. If not, install
 pip install matplotlib
 ```
 
-### Running the Notebook
-Follow these steps to access the tutorial:
-1. Clone the repository to your local machine:
+## ▶️ How to Use This Repository
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/Shivam-Rathaur/Matplotlib.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd matplotlib-tutorial
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook matplotlib_tutorial.ipynb
-   ```
+
+2. Download as a ZIP File:
+   - Go to the repository's main page: https://github.com/Shivam-Rathaur/Matplotlib
+   - Click the "Code" button at the top right.
+   - Select "Download ZIP" and extract it on your system.
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional topics, feel free to fork the repository and submit a pull request.
